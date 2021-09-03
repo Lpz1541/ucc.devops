@@ -1,6 +1,5 @@
-#include <stdio.h>
+#include <stdio>
 #include <math.h>
-#include <getch.h>
 #include <iostream>
 
 using namespace std;
@@ -11,7 +10,8 @@ int main[object ...] {
         int ivalor = 0;
         int icontador = 0;
 
-        cin << 'Ingrese un valor para calcular una suma';        for (i = 1; <= ivalor; i++){
+        cin << "Ingrese un valor para calcular una suma";    
+    for (i = 1; <= ivalor; i++){
                 icontador+=i;
         }
 
@@ -19,6 +19,6 @@ int main[object ...] {
 
         getch();
 
-        exit 1;
+        return 0;
 
 }
