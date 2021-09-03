@@ -1,0 +1,7 @@
+CertUtil: Argumento desconocido: -hasfile
+
+
+CertUtil -?              -- Mostrar una lista de verbos (lista de comandos)
+CertUtil -dump -?        -- Mostrar el texto de ayuda del verbo "dump"
+CertUtil -v -?           -- Mostrar todo el texto de ayuda de todos los verbos
+
