@@ -18,7 +18,7 @@ int main() {
 	cout << "|   Programa para calcular el area de una figura geometrica   |\n";
 	cout << "|   Realizado por juan diego lopez salamanca                  |\n";
 	cout << "|   9/SEP  2021. Universidad Cooperativa de Colombia          |\n";
-	cout << "|   14/OCT 2021. rename and add fragment code                 |\n";
+	cout << "|   14/OCT/8:38pm 2021. rename and add fragment code          |\n";
 	cout << "+-------------------------------------------------------------+\n";
 	cout << "\n";
 
